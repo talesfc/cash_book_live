@@ -22,13 +22,14 @@ Acesso web com interfaces para:
 
 
 # OUTRAS NOTAS
-- Verifique no obsidian de 2026-06-06 o logins criado para testes
+- Verifique no obsidian de 2026-06-06 o login criado para testes
 
 # PARA USAR NO DESENVOLVIMENTO
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
-  * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
+  * Run `mix phx.server` to start Phoenix endpoint 
+  * Run `iex -S mix phx.server` to start Phoenix endpoint inside IEx 
 
 Wait for message:
   Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
